@@ -1,3 +1,7 @@
+CREATE DATABASE `gulimall_oms`;
+
+USE gulimall_oms;
+
 drop table if exists oms_order;
 
 drop table if exists oms_order_item;
