@@ -1,3 +1,5 @@
+USE gulimall_pms;
+
 DROP TABLE IF EXISTS `pms_category`;
 
 CREATE TABLE `pms_category` (
